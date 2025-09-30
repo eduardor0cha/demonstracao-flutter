@@ -32,14 +32,17 @@ class _HomePageState extends State<ScrollTestPage> {
                   "If we'd go again all the way from the start\nI would try to change the things that killed our love\nPride has built a wall so strong that I can't get through\nIs there really no chance to start once again?\nI'm loving you",
                   style: TextStyle(fontSize: 16, color: Colors.white),
                 ),
+                SizedBox(height: 16),
                 Text(
                   "Try, baby, try\nTo trust in my love again\nI will be there\nI will be there\nLove, our love\nJust shouldn't be thrown away\nI will be there\nI will be there",
                   style: TextStyle(fontSize: 16, color: Colors.white),
                 ),
+                SizedBox(height: 16),
                 Text(
                   "If we'd go again all the way from the start\nI would try to change the things that killed our love\nYes, I've hurt your pride and I know what you've been through\nYou should give me a chance\nThis can't be the end",
                   style: TextStyle(fontSize: 16, color: Colors.white),
                 ),
+                SizedBox(height: 16),
                 Text(
                   "I'm still loving you\nI'm still loving you\nI'm still loving you\nI need your love\nI'm still loving you",
                   style: TextStyle(fontSize: 16, color: Colors.white),
